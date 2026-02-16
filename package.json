@@ -1,0 +1,8 @@
+{
+  "name": "on-chain-orderbook",
+  "version": "1.0.0",
+  "description": "On-chain limit order book engine",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
